@@ -40,13 +40,13 @@ Interactive Dashboard – HTML version for easier exploration
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](images/dashboard overview.png)
+![Overview](images/dashboard-overview.png)
 
 ### Category Analysis
-![Category Analysis](images/category analysis.png)
+![Category](images/category-analysis.png)
 
 ### Subcategory Analysis
-![Subcategory Analysis](images/subcategory analysis.png)
+![Subcategory](images/subcategory-analysis.png)
 
 ### Market Performance
-![Market Performance](images/market performance.png)
+![Market](images/market-performance.png)
